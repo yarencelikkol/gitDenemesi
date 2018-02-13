@@ -10,5 +10,3 @@ Git checkout commit_numarası(uzun bi sayı bunu gibi -> b1628b84028c480c4ab59d0
 En son versiyonuna gitmek istersen 
 git checkout master
 
-
-git remote add origin https://github.com/yarencelikkol/gitDenemesi.git
