@@ -1,1 +1,5 @@
-git init -> ekledim
+git init -> yarattım
+Git add * -> bütün dosyaları ekledim
+git commit -m "ilk commitimi attım"
+
+Git log -> bütün log kayıtları gösteriyor
